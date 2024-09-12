@@ -10,6 +10,7 @@
         <module name="openAPI-platform-backend" />
         <module name="openAPI-platform-clientsdk" />
         <module name="openAPI-platform-gateway" />
+        <module name="openAPI-platform-interface" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11" />

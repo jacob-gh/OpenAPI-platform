@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/../openAPI-platform-backend/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../openAPI-platform-clientsdk/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../openAPI-platform-clientsdk/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../openAPI-platform-common/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../openAPI-platform-common/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../openAPI-platform-gateway/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../openAPI-platform-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openAPI-platform-backend/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openAPI-platform-clientsdk/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openAPI-platform-clientsdk/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openAPI-platform-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openAPI-platform-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openAPI-platform-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openAPI-platform-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openAPI-platform-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openAPI-platform-interface/src/main/resources" charset="UTF-8" />
   </component>
 </project>
